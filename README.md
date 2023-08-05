@@ -1,1 +1,4 @@
-# Auth0-Backend-
+# Auth0-Backend 
+
+Database Action Scripts
+The Login script is mandatory. Other scripts, if implemented will be used for sign up, email verification, password reset and delete user functionality.
